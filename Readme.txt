@@ -1,0 +1,1 @@
+The Burfaş café application is an open-source café application that provides customers with the convenience of purchasing coffee and includes coffee rights that can be earned through gamification.
